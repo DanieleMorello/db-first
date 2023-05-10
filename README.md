@@ -2,10 +2,10 @@
 
 ## Data types:
 
-- strings: [ varchar(number), char(number), text, longtext ]
-- numbers: [ tinyint, smallint, mediumint, int, bigint ]
-- decimals: [ float(i,d), double(i,d), decimal(i,d) ]
-- dates: [ datetime, date, time, year, timestamp ]
+- strings: [ VARCHAR(number), CHAR(number), TEXT, LONGTEXT ]
+- numbers: [ TINYINT, SMALLINT, MEDIUMINT, INT, BIGINT ]
+- decimals: [ FLOAT(i,d), DOUBLE(i,d), DECIMAL(i,d) ]
+- dates: [ DATETIME, DATE, TIME, YEAR, TIMESTAMP ]
 
 ## Attributes
 
