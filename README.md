@@ -1,11 +1,11 @@
-# DB concessionario macchine usate
+# DB Concessionario macchine usate
 
 ## Data types:
 
--strings: [varchar(number), char(number), text, longtext]
--numbers: [tinyint, smallint, mediumint, int, bigint]
--decimals: [float(i,d), double(i,d), decimal(i,d)]
--dates: [datetime, date, time, year, timestamp]
+- strings: [varchar(number), char(number), text, longtext]
+- numbers: [tinyint, smallint, mediumint, int, bigint]
+- decimals: [float(i,d), double(i,d), decimal(i,d)]
+- dates: [datetime, date, time, year, timestamp]
 
 ## Attributes
 
